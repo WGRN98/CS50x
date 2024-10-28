@@ -1,0 +1,5 @@
+HTML tags used: <p> <div> <header> <footer> <main> <li> <script> <link> <nav> <ul> <a> <section> <img> <h1> <h2> <h3> <button>
+
+CSS properties used: padding, height, background, font-family, display, font-size, font-height, font-weight, margin-top, margin-bottom, position, left, bottom, width, flex-wrap, color, line-height, overflow-x, box-sizing, border-radius
+
+The javascript is a 24h clock that displays current time (no daylight savings)

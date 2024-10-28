@@ -1,0 +1,5 @@
+Since question says to reflect assuming no code has to be inserted
+
+1. The same way that spotify calculates aura, using a query to get the user's average energy, valence, and danceability of their top 100 songs. Then comparing to a pre-defined list of moods with respective values.
+
+2. Mood is a more complex thing than 3 variables and the same song can have different moods depending on other factors. A better way to calculate mood of a song would be to use more variables. Perhaps using a one to many relation for moods and songs. Then calculating the average mood.
